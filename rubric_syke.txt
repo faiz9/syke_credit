@@ -1,0 +1,137 @@
+
+SYKE™ Credit Score System
+––––––––––––––––––––––––
+Score range: 300 - 850
+
+
+Ranges
+–––––––––––––––––––––––
+300 - 570   Very poor
+580 - 669   Fair
+670 - 739   Good
+740 - 799   Very Good
+800 - 850   Exceptional
+
+                                                                        INDEX
+5 major score factors      100%     500 bp                              ––––––––––––––––––––––––––––––––––––
+–––––––––––––––––––––      –––––    –––––––                             • bp = Basis points
+  • Payment History        35%      192.5 bp                            • '+' = Points that will be added
+  • Credit utilization     30%      165.0 bp                            • TS = Percentage of total score
+  • Credit History         15%      82.5  bp
+  • Credit Mix             10%      55.0  bp
+  • New Credit             10%      55.0  bp
+
+
+Score factor breakdown
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+» Payment History                   • 35%TS    192.5 bp  (max)
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    Number of late payments         • 10%      19.25 bp  (max)
+    –––––––––––––––––––––––––       ––––––     ––––––––
+    • 0                             100%       19.25 bp +
+    • 1                             80%        15.40 bp +
+    • 2                             60%        11.55 bp +
+    • 3                             40%        7.70  bp +
+    • 4                             20%        3.85  bp +
+    • 5+                            0%         0        +
+
+    Months since
+    last derogatory record          • 90%      173.25 bp  (max)
+    ––––––––––––––––––––––––        –––––      –––––––––
+    • No Record                     100.0%     173.25 bp +
+    • 0 - 5                         13.0%      22.52  bp +
+    • 6 - 11                        20.0%      34.65  bp +
+    • 12 - 23                       33.3%      57.69  bp +
+    • 24 - 47                       73.3%      126.99 bp +
+    • 48 - 72                       87.0%      150.73 bp +
+    • 72+                           93.3%      161.64 bp +
+    • < 84 == No record             100.0%     173.25 bp +
+
+
+» Credit utilization                • 30%TS    165.0  bp (max)
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    Revolving Debt (percentage)     • 100%     165.0  bp (max)
+    ––––––––––––––––––––––––        –––––      ––––––––
+    • No revolving credit           46.2%      76.23  bp+
+    • 0%                            76.9%      126.89 bp +
+    • 1 - 10                        84.6%      139.59 bp +
+    • 11 - 15                       100.0%     165.0  bp +
+    • 16 - 25                       84.6%      139.59 bp +
+    • 26 - 30                       76.9%      126.89 bp +
+    • 31 - 50                       61.5%      101.48 bp +
+    • 51 - 75                       38.5%      63.53  bp +
+    • 76+                           23.1%      38.12  bp +
+
+» Credit History                    • 15%TS    82.5  bp (max)
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    Average Account Age (months)    • 20%      16.50 bp (max)
+    ––––––––––––––––––––––––        –––––      ––––––––
+    • Below 12                      16.0%      2.64  bp +
+    • 12 - 23                       46.6%      7.69  bp +
+    • 24 - 48                       80.0%      13.20 bp +
+    • 48+                           100.0%     16.50 bp +
+
+    Oldest Account Age (months)     • 60%      49.50 bp (max)
+    ––––––––––––––––––––––––        –––––      ––––––––
+    • Below 12                      16.0%      7.92  bp +
+    • 12 - 23                       46.6%      26.07 bp +
+    • 24 - 48                       80.0%      39.60 bp +
+    • 48+                           100.0%     49.50 bp +
+
+    Newest Account Age (months)     • 20%      16.50 bp (max)
+    ––––––––––––––––––––––––        –––––      ––––––––
+    • 0 - 5                         30%        4.95  bp +
+    • 6 - 11                        70%        11.55 bp +
+    • 12+                           100%       16.50 bp +
+
+» Credit Mix                        • 10%TS    55.0  bp (max)
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    Mix of Credit Types             • 40%      22.0  bp (max)
+    ––––––––––––––––––––––––        –––––      –––––––
+    • Installment loan              50%        11.0  bp +
+    • Credit Card                   50%        11.0  bp +
+
+    Number of Accounts              • 60%      33.0  bp (max)
+    ––––––––––––––––––––––––        –––––      –––––––
+    • 0                             25.0%      8.25  bp +
+    • 1                             33.3%      10.99 bp +
+    • 2                             41.7%      13.76 bp +
+    • 3                             83.3%      27.49 bp +
+    • 4 - 5                         100.0%     33.0  bp +
+    • 6+                            83.3%      27.49 bp +
+
+
+» New Credit                        • 10%TS    55.0  bp (max)
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+    Hard inquiries (12 months)      • 100%     55.0  bp (max)
+    ––––––––––––––––––––––––        –––––      –––––––
+    • 0                             100.0%     55.0  bp +
+    • 1                             85.7%      47.14 bp +
+    • 2                             64.3%      35.37 bp +
+    • 3                             35.7%      19.64 bp +
+    • 4+                            28.6%      15.73 bp +
+
+
+Different types of accounts
+–––––––––––––––––––––––––––––––––––––––
+Person score HAS A
+   - installment loans:
+     • mortgage
+     • auto loan
+     • personal loan
+     • student loan
+
+     - Affects score:
+       • debt to income ratio
+       • derogatory payments
+       • inquiries
+       • temporarily hurt score until
+        proven to pay back the loan
+
+    - revolving credit:
+       • credit utilization
+       • credit length
+       • derogatory payments
+       • inquiries
