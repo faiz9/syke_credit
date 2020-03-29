@@ -64,6 +64,7 @@ Score factor breakdown
     • 51 - 75                       38.5%      63.53  bp +
     • 76+                           23.1%      38.12  bp +
 
+
 » Credit History                    • 15%TS    82.5  bp (max)
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
     Average Account Age (months)    • 20%      16.50 bp (max)
@@ -85,6 +86,7 @@ Score factor breakdown
     • 0 - 5                         30%        4.95  bp +
     • 6 - 11                        70%        11.55 bp +
     • 12+                           100%       16.50 bp +
+
 
 » Credit Mix                        • 10%TS    55.0  bp (max)
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
