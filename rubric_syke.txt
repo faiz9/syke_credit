@@ -2,9 +2,9 @@
 SYKE™ Credit Score System
 ––––––––––––––––––––––––
 Score range: 300 - 850
+Base Score: 300 bp
 
-
-Ranges
+Score Sub-Ranges
 –––––––––––––––––––––––
 300 - 570   Very poor
 580 - 669   Fair
@@ -13,7 +13,7 @@ Ranges
 800 - 850   Exceptional
 
                                                                         INDEX
-5 major score factors      100%     500 bp                              ––––––––––––––––––––––––––––––––––––
+5 major score factors      100%     550 bp                              ––––––––––––––––––––––––––––––––––––
 –––––––––––––––––––––      –––––    –––––––                             • bp = Basis points
   • Payment History        35%      192.5 bp                            • '+' = Points that will be added
   • Credit utilization     30%      165.0 bp                            • TS = Percentage of total score
@@ -64,6 +64,7 @@ Score factor breakdown
     • 51 - 75                       38.5%      63.53  bp +
     • 76+                           23.1%      38.12  bp +
 
+
 » Credit History                    • 15%TS    82.5  bp (max)
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
     Average Account Age (months)    • 20%      16.50 bp (max)
@@ -85,6 +86,7 @@ Score factor breakdown
     • 0 - 5                         30%        4.95  bp +
     • 6 - 11                        70%        11.55 bp +
     • 12+                           100%       16.50 bp +
+
 
 » Credit Mix                        • 10%TS    55.0  bp (max)
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
